@@ -1,0 +1,10 @@
+D:\Users\Win10\Desktop\Faculdade ADS\LP2\PTestesEventos\PTestesEventos\bin\Debug\PTestesEventos.exe.config
+D:\Users\Win10\Desktop\Faculdade ADS\LP2\PTestesEventos\PTestesEventos\bin\Debug\PTestesEventos.exe
+D:\Users\Win10\Desktop\Faculdade ADS\LP2\PTestesEventos\PTestesEventos\bin\Debug\PTestesEventos.pdb
+D:\Users\Win10\Desktop\Faculdade ADS\LP2\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.csproj.AssemblyReference.cache
+D:\Users\Win10\Desktop\Faculdade ADS\LP2\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.Form1.resources
+D:\Users\Win10\Desktop\Faculdade ADS\LP2\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.Properties.Resources.resources
+D:\Users\Win10\Desktop\Faculdade ADS\LP2\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.csproj.GenerateResource.cache
+D:\Users\Win10\Desktop\Faculdade ADS\LP2\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.csproj.CoreCompileInputs.cache
+D:\Users\Win10\Desktop\Faculdade ADS\LP2\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.exe
+D:\Users\Win10\Desktop\Faculdade ADS\LP2\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.pdb
